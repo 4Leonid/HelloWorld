@@ -1,4 +1,4 @@
-﻿/*
+﻿
 string[,] table = new string[2, 5];
 table[1, 2] = "слово";
 
@@ -40,7 +40,7 @@ FillArray(matrix);
 Console.WriteLine();
 PrintArray(matrix);
 
-
+/*
 int[,] pic = new int[,]
 {
 {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
